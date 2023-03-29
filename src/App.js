@@ -12,7 +12,7 @@ function App() {
   };
   return (
     <div className="App">
-      <img src="https://media.licdn.com/dms/image/C4E03AQFGtrAPIJxEsg/profile-displayphoto-shrink_800_800/0/1662919128435?e=1683158400&v=beta&t=bvnepyzByvftR2H_RGrSe9IqA9CzNSkOIGpANPta_vw"></img>
+      <img alt="A photo of nitin" src="../my_pic.jpg"></img>
       <div className="main">
         <h1>Nitin M V S</h1>
         <h4>Student</h4>
